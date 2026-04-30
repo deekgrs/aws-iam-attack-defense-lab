@@ -168,12 +168,6 @@ aws-iam-attack-defense-lab/
 
 ---
 
-## 💼 Resume Bullet
-
-> **AWS IAM Attack & Defense Lab** — Built a cloud security lab to simulate IAM privilege escalation and persistence attacks by exploiting misconfigured policies; implemented least-privilege controls with explicit deny rules and validated mitigation using real attack attempts.
-
----
-
 ## 🔗 Related Concepts
 
 - [AWS IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
