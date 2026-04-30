@@ -1,3 +1,9 @@
+## 📄 Full Report
+
+A detailed step-by-step report with screenshots and explanations is available here:
+
+👉 [Download Project Report](IAM_Attack_Defense_Lab_Report.pdf)
+
 # 🔐 AWS IAM Attack & Defense Lab
 
 > A hands-on cloud security simulation demonstrating IAM privilege escalation, persistence attacks, and least-privilege defense — built on AWS CloudShell.
